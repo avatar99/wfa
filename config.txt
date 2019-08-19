@@ -1,0 +1,6 @@
+﻿token= NjEzMDg1MTAwMjA0MzU5Njkz.XVryAg.IYSDig7cZiCNszhZvZSOBBMikfc
+owner= 600369127907131412
+prefix=4
+game= Bright
+stayinchannel=true
+songinstatus=false 

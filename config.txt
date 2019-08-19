@@ -1,4 +1,4 @@
-﻿token= NjEzMDg1MTAwMjA0MzU5Njkz.XVryAg.IYSDig7cZiCNszhZvZSOBBMikfc
+token= NjEzMDg1MTAwMjA0MzU5Njkz.XVr3Og.QrFEV-Z0t18kkLIh_cI2mlboiqg
 owner= 600369127907131412
 prefix=4
 game= Bright
